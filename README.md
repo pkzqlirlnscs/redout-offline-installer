@@ -32,6 +32,12 @@
 
 ---
 
+## 🎮 About the Game
+
+Redout is a tribute to the old racing monsters such as F-Zero, WipeOut, Rollcage, and POD. It is designed to be an uncompromising, fast, tough and satisfying driving experience, soaked in that vertigo that stands at the core of the arcade racing genre.
+
+---
+
 ## ❌ Problem: Games are expensive and require internet
 
 - **High Cost** — Full-price games cost $60–70 at launch
@@ -89,10 +95,13 @@
 
 | **Component** | **Windows** | **macOS** |
 |---------------|-------------|-----------|
-| **OS** | Windows 10/11 (64-bit) | macOS 12 Monterey or later |
-| **RAM** | 8 GB+ | 8 GB+ |
-| **Storage** | 2 GB free | 2 GB free |
-| **Processor** | Intel i5 / AMD Ryzen 5 | Intel or Apple Silicon |
+| **Processor** | Min: i3 2.6Ghz / Rec: i5 2.6Ghz | Intel Core i5 / Apple M1 |
+| **Memory** | Min: 4 GB RAM / Rec: 8 GB RAM | 4 GB RAM |
+| **Graphics** | Min: GTX 560 or equivalent / Rec: GTX 960 or equivalent | Metal-capable GPU |
+| **DirectX** | Version 11 | Version 11 |
+| **Storage** | 6 GB available space | 6 GB available space |
+| **OS *** | Windows 7 | Windows 7 |
+| **VR Support** | SteamVR or Oculus PC. Keyboard or gamepad required | SteamVR or Oculus PC. Keyboard or gamepad required |
 
 ---
 
